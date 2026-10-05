@@ -17,7 +17,7 @@
 
 ## Overview
 
-**SafeLand** is a self-contained Python implementation for experimenting with:
+**CertiLand** is a self-contained Python implementation for experimenting with:
 
 - temporal-logic specifications
 - LTL formula processing
